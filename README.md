@@ -1,6 +1,6 @@
 # 📊 Mobile Sales Dashboard | Power BI
 
-> A basic Power BI dashboard created to analyze mobile sales performance, customer behavior, and transaction trends.
+> An interactive Power BI dashboard to analyze mobile sales performance, customer behavior, and transaction trends.
 
 ---
 
